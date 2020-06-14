@@ -1,0 +1,5 @@
+C:\Users\Dmitriy Makarov\source\repos\Practice-10\.vs\Practice-10\v16\lut\0\b\Practice-10\bin\Debug\Practice-10.exe.config
+C:\Users\Dmitriy Makarov\source\repos\Practice-10\.vs\Practice-10\v16\lut\0\b\Practice-10\bin\Debug\Practice-10.exe
+C:\Users\Dmitriy Makarov\source\repos\Practice-10\.vs\Practice-10\v16\lut\0\i\Practice-10\Debug\Practice-10.csprojAssemblyReference.cache
+C:\Users\Dmitriy Makarov\source\repos\Practice-10\.vs\Practice-10\v16\lut\0\i\Practice-10\Debug\Practice-10.csproj.CopyComplete
+C:\Users\Dmitriy Makarov\source\repos\Practice-10\.vs\Practice-10\v16\lut\0\i\Practice-10\Debug\Practice-10.exe
