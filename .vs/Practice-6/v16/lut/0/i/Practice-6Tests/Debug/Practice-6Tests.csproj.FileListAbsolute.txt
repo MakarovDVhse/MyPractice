@@ -1,0 +1,9 @@
+C:\Users\Dmitriy Makarov\source\repos\Practice-6\.vs\Practice-6\v16\lut\0\b\Practice-6Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dmitriy Makarov\source\repos\Practice-6\.vs\Practice-6\v16\lut\0\b\Practice-6Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dmitriy Makarov\source\repos\Practice-6\.vs\Practice-6\v16\lut\0\b\Practice-6Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dmitriy Makarov\source\repos\Practice-6\.vs\Practice-6\v16\lut\0\b\Practice-6Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Dmitriy Makarov\source\repos\Practice-6\.vs\Practice-6\v16\lut\0\b\Practice-6Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Dmitriy Makarov\source\repos\Practice-6\.vs\Practice-6\v16\lut\0\b\Practice-6Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Dmitriy Makarov\source\repos\Practice-6\.vs\Practice-6\v16\lut\0\b\Practice-6Tests\bin\Debug\Practice-6Tests.dll
+C:\Users\Dmitriy Makarov\source\repos\Practice-6\.vs\Practice-6\v16\lut\0\i\Practice-6Tests\Debug\Practice-6Tests.csproj.CopyComplete
+C:\Users\Dmitriy Makarov\source\repos\Practice-6\.vs\Practice-6\v16\lut\0\i\Practice-6Tests\Debug\Practice-6Tests.dll

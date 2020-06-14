@@ -1,0 +1,6 @@
+C:\Users\Dmitriy Makarov\source\repos\Pracctice-4\Pracctice-4\bin\Debug\Pracctice-4.exe.config
+C:\Users\Dmitriy Makarov\source\repos\Pracctice-4\Pracctice-4\bin\Debug\Pracctice-4.exe
+C:\Users\Dmitriy Makarov\source\repos\Pracctice-4\Pracctice-4\bin\Debug\Pracctice-4.pdb
+C:\Users\Dmitriy Makarov\source\repos\Pracctice-4\Pracctice-4\obj\Debug\Pracctice-4.csprojAssemblyReference.cache
+C:\Users\Dmitriy Makarov\source\repos\Pracctice-4\Pracctice-4\obj\Debug\Pracctice-4.exe
+C:\Users\Dmitriy Makarov\source\repos\Pracctice-4\Pracctice-4\obj\Debug\Pracctice-4.pdb

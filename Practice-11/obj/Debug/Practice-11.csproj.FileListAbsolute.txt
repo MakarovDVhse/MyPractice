@@ -1,0 +1,9 @@
+C:\Users\Dmitriy Makarov\source\repos\Practice-11\Practice-11\bin\Debug\Practice-11.exe.config
+C:\Users\Dmitriy Makarov\source\repos\Practice-11\Practice-11\bin\Debug\Practice-11.exe
+C:\Users\Dmitriy Makarov\source\repos\Practice-11\Practice-11\bin\Debug\Practice-11.pdb
+C:\Users\Dmitriy Makarov\source\repos\Practice-11\Practice-11\obj\Debug\Practice-11.csprojAssemblyReference.cache
+C:\Users\Dmitriy Makarov\source\repos\Practice-11\Practice-11\obj\Debug\Practice_11.Form1.resources
+C:\Users\Dmitriy Makarov\source\repos\Practice-11\Practice-11\obj\Debug\Practice_11.Properties.Resources.resources
+C:\Users\Dmitriy Makarov\source\repos\Practice-11\Practice-11\obj\Debug\Practice-11.csproj.GenerateResource.cache
+C:\Users\Dmitriy Makarov\source\repos\Practice-11\Practice-11\obj\Debug\Practice-11.exe
+C:\Users\Dmitriy Makarov\source\repos\Practice-11\Practice-11\obj\Debug\Practice-11.pdb

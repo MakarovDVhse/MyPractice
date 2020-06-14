@@ -1,0 +1,6 @@
+C:\Users\Dmitriy Makarov\source\repos\Practice-7\Practice-7\bin\Debug\Practice-7.exe.config
+C:\Users\Dmitriy Makarov\source\repos\Practice-7\Practice-7\bin\Debug\Practice-7.exe
+C:\Users\Dmitriy Makarov\source\repos\Practice-7\Practice-7\bin\Debug\Practice-7.pdb
+C:\Users\Dmitriy Makarov\source\repos\Practice-7\Practice-7\obj\Debug\Practice-7.csprojAssemblyReference.cache
+C:\Users\Dmitriy Makarov\source\repos\Practice-7\Practice-7\obj\Debug\Practice-7.exe
+C:\Users\Dmitriy Makarov\source\repos\Practice-7\Practice-7\obj\Debug\Practice-7.pdb
