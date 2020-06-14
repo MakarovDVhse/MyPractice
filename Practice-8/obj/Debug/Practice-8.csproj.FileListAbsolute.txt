@@ -1,0 +1,6 @@
+C:\Users\Dmitriy Makarov\source\repos\Practice-8\Practice-8\bin\Debug\Practice-8.exe.config
+C:\Users\Dmitriy Makarov\source\repos\Practice-8\Practice-8\bin\Debug\Practice-8.exe
+C:\Users\Dmitriy Makarov\source\repos\Practice-8\Practice-8\bin\Debug\Practice-8.pdb
+C:\Users\Dmitriy Makarov\source\repos\Practice-8\Practice-8\obj\Debug\Practice-8.csprojAssemblyReference.cache
+C:\Users\Dmitriy Makarov\source\repos\Practice-8\Practice-8\obj\Debug\Practice-8.exe
+C:\Users\Dmitriy Makarov\source\repos\Practice-8\Practice-8\obj\Debug\Practice-8.pdb
