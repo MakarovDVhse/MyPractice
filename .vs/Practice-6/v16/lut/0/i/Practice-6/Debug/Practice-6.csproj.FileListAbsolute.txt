@@ -1,0 +1,5 @@
+C:\Users\Dmitriy Makarov\source\repos\Practice-6\.vs\Practice-6\v16\lut\0\b\Practice-6\bin\Debug\Practice-6.exe.config
+C:\Users\Dmitriy Makarov\source\repos\Practice-6\.vs\Practice-6\v16\lut\0\b\Practice-6\bin\Debug\Practice-6.exe
+C:\Users\Dmitriy Makarov\source\repos\Practice-6\.vs\Practice-6\v16\lut\0\i\Practice-6\Debug\Practice-6.csprojAssemblyReference.cache
+C:\Users\Dmitriy Makarov\source\repos\Practice-6\.vs\Practice-6\v16\lut\0\i\Practice-6\Debug\Practice-6.csproj.CopyComplete
+C:\Users\Dmitriy Makarov\source\repos\Practice-6\.vs\Practice-6\v16\lut\0\i\Practice-6\Debug\Practice-6.exe
